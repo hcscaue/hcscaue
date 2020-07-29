@@ -1,5 +1,12 @@
-### Hi there 👋
+### Opa! 
 
+Meu nome é Cauê Santos, sou Coordenador do Cordel Labs - área da Cordel focada em desenvolvimento de intervenções digitais, principalmente jogos - e estudante de front-end. 
+
+Pode me encontrar por uma dessas redes sociais: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chcs)](https://www.linkedin.com/in/chcs)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-rgba(255,35,110,1)?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/chcs)](https://www.linkedin.com/in/chcs)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-rgba(253,96,64,1)?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caue.hcs@nave.org.br)](mailto:caue.hcs@nave.org.br)
 <!--
 **Cauehcs/Cauehcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,6 +14,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
