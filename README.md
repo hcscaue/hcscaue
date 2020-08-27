@@ -1,6 +1,6 @@
 ### Hello! 
 
-My name is Cauê Santos, I am Coordinator @Cordel-Labs - Cordel area focused on digital development, mainly gamified platforms - and front-end student.
+My name is Cauê Henrique, I am Coordinator @Cordel-Labs - Cordel area focused on digital development, mainly gamified platforms - and front-end student.
 
 You can find me on one of these social networks:
 
