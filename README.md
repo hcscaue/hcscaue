@@ -1,6 +1,11 @@
 ### Hello! 
 
-My name is Cauê Henrique, I am Coordinator @Cordel-Labs - Cordel area focused on digital development, mainly gamified platforms - and front-end student.
+I'm Cauê Santos, Game Developoer e 
+
+🔭 I’m currently working on [@Cordel](https://github.com/Cordel-Labs)
+🌱 I’m currently learning `JavaScript` and `Node.js`
+👯 I’m looking to collaborate on `Education Projects 4.0`
+💬 Ask me about `Unity` and `Game Development`
 
 You can find me on one of these social networks:
 
