@@ -2,10 +2,7 @@
 
 I'm Cauê Santos, Game Developoer e 
 
-🔭 I’m currently working on [@Cordel](https://github.com/Cordel-Labs)
-🌱 I’m currently learning `JavaScript` and `Node.js`
-👯 I’m looking to collaborate on `Education Projects 4.0`
-💬 Ask me about `Unity` and `Game Development`
+🔭 I’m currently working on [@Cordel](https://github.com/Cordel-Labs)<br>🌱 I’m currently learning `JavaScript` and `Node.js`<br>👯 I’m looking to collaborate on `Education Projects 4.0`<br>💬 Ask me about `Unity` and `Game Development`
 
 You can find me on one of these social networks:
 
