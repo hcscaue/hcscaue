@@ -1,4 +1,4 @@
-### Hello, my name is Cauê and I like games.
+### Hello, I'm Cauê Henrique and I like games.
 
 Technician in Programming of Digital Games, I develop technological solutions, digital or not, that aim at a better performance and engagement during the moment of learning.
 
