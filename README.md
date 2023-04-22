@@ -83,7 +83,7 @@
 <div align="center">
  📫 How to reach me:
 
- [![Linktree](https://img.shields.io/badge/Linktree-black?style=for-the-badge&logo=website&logoColor=white)](https://hcscaue.github.io/)
+ [![Website](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hcscaue.github.io/)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hcscaue/)
  [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hcs.caue/)
 </div>
