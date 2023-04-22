@@ -1,39 +1,88 @@
-### Hello, I'm Cauê Henrique and I like games.
+<!-- I used this repository as inspiration: https://github.com/DavidsDvm/DavidsDvm -->
+<!-- I used this repository as inspiration: https://github.com/PriontoAbdullah/PriontoAbdullah -->
 
-Technician in Programming of Digital Games, I develop technological solutions, digital or not, that aim at a better performance and engagement during the moment of learning.
+![Profile Banner](https://user-images.githubusercontent.com/48563952/233785687-ff4a35e8-c9a6-4abd-9c2f-7a68742d6a58.png)
 
-🔭 I’m currently working on [`Cordel`](https://github.com/Cordel-Labs)<br>🌱 I’m currently learning `JavaScript` and `Node.js`<br>👯 I’m looking to collaborate on `Education Projects 4.0`<br>💬 Ask me about `Unity` and `Game Development`
+<h1 align="center"> Hello, I'm Cauê Henrique <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" > ! </h1>
 
-You can find me on one of these social networks:
+<h3 align="center">Passionate developer with a focus on game development and gamification.</h3>  
 
-<p align="left">
-<a href="https://linkedin.com/in/chcs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chcs" height="30" width="40" /></a>
-<a href="https://instagram.com/caue.hcs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="caue.hcs" height="30" width="40" /></a>
-</p>
-
-
-**Languages and Tools:**  
-
-<p align="left"> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a><a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
+<p align="justify">I am a digital game developer, mobile app developer, and front-end developer passionate about creating technological solutions that aim to improve performance and engagement during the learning process. I have experience as a Coordinator at Cordel Labs, where I lead the technical aspect of the company and develop disruptive projects focused on learning and playfulness.</p>
+ 
+🔭 I'm currently working as a Freelancer and at [`Cordel`](https://github.com/Cordel-Labs)<br>🌱 I'm currently learning `Flutter`<br>👯 I'm looking to collaborate on `Education Projects 4.0` and `Game Development`<br>💬 Ask me about `Unity` and `Game Development`
 
 <br/>
+<h1 align="center"> 👨‍💻 Top Languages and Tools</h1>
 
-**Developer of:**
+<div align="center">
+ 
+ ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+ ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+ ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
+ ![Typescript](https://img.shields.io/badge/Typescript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
+ ![Flutter](https://img.shields.io/badge/Flutter-6A89E5?style=for-the-badge&logo=flutter&logoColor=fff)
+ ![Dart](https://img.shields.io/badge/dart-6A89E5?style=for-the-badge&logo=dart&logoColor=fff)
+ ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+ ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![Firebase](https://img.shields.io/badge/Firebase-051E34?style=for-the-badge&logo=firebase&logoColor=FFCB2B)
+ ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+ ![OBS Studio](https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obs-studio&logoColor=white)
+ ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+ ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+ ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+ ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+ ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+ ![Trello](https://img.shields.io/badge/Trello-0055CC?style=for-the-badge&logo=trello&logoColor=fff)
+ ![Google Drive](https://img.shields.io/badge/Google%20drive-00AC47?style=for-the-badge&logo=google-drive&logoColor=fff)
+ 
+</div>
+ 
+<br /> 
+<h1 align="center"> 📊 Github stats</h1>
+<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
+ <br/>
+ <a href="https://github.com/hcscaue/github-readme-stats"><img alt="hcscaue's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hcscaue&show_icons=true&count_private=true&theme=react&bg_color=22272E&title_color=fff&icon_color=fff&show_icons=true&border_color=22272E&border_radius=0" height="192px"/><img alt="hcscaue's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcscaue&langs_count=8&layout=compact&theme=react&bg_color=22272E&title_color=fff&icon_color=fff&show_icons=true&border_color=22272E&border_radius=0" height="192px"/></a>
+ <br/>
+ <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hcscaue&theme=nord&no-frame=true&border=%220%22&margin-w=15&margin-h=15&row=1" alt="PriontoAbdullah Profile Trophies" />
+  </a>
+ </div>
+ <br/>
+ <b>Note:</b> <!--The stats that appear on trophies only reflect my progress in public repositories; -->Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</div>
+<br/>
 
-[![unity-greenergy-sbgames](https://github-readme-stats.vercel.app/api/pin/?username=Cauehcs&repo=unity-greenergy-sbgames)](https://github.com/Cauehcs/unity-greenergy-sbgames)
-[![unity-ambiente-teste-2d](https://github-readme-stats.vercel.app/api/pin/?username=Cauehcs&repo=unity-ambiente-teste-2d)](https://github.com/Cauehcs/unity-ambiente-teste-2d)
+<!-- Projects section -->
+
+<!-- ## 📘 My top open source projects -->
+
+<!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- <p align="center">
+  <p style="widht: 100%;" align="center">
+    <a href="https://github.com/DavidsDvm/Flowy"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=Flowy&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/DavidsDvm/MascotasOlarte"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=MascotasOlarte&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+  </p>
+  <p align="center">&#8192;</p>
+  <p style="widht: 100%;" align="center">
+    <a href="https://github.com/DavidsDvm/Dev_Exercises"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=Dev_Exercises&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/DavidsDvm/EjerciciosSena"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=hcscaue&repo=EjerciciosSena&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
+  </p>
+</p>
+
+<p align="center">&#8192;</p>
+<p align="center">&#8192;</p>
+
+<p align="left">
+  <a href="https://github.com/hcscaue?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p> -->
+
+<div align="center">
+ 📫 How to reach me:
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hcscaue/)
+ [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hcs.caue/)
+</div>
